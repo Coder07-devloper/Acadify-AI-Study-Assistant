@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+
+.env
+*.env
+client_secret*.json
+
+.vscode/
+.DS_Store
+Thumbs.db

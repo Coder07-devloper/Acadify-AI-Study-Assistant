@@ -1,0 +1,83 @@
+.dashboard-container {
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .sidebar {
+    width: 28%;
+    background: #111827;
+    color: white;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  
+  .sidebar h2 {
+    margin-bottom: 20px;
+  }
+  
+  .history-item {
+    background: #1f2937;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  .history-item:hover {
+    background: #374151;
+  }
+  
+  .history-item button {
+    margin-top: 8px;
+    padding: 4px 8px;
+    background: #ef4444;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .main-content {
+    width: 72%;
+    padding: 30px;
+    overflow-y: auto;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
+  button.generate-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  button.generate-btn:hover {
+    background: #1d4ed8;
+  }
+  
+  .roadmap-section {
+    margin-top: 30px;
+  }
+  
+  .video-card {
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  
+  .video-card a {
+    color: #2563eb;
+    text-decoration: none;
+  }

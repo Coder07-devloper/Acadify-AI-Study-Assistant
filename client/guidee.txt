@@ -1,0 +1,4 @@
+command to start mongodb - 
+"C:\Program Files\MongoDB\Server\8.2\bin\mongod.exe" --dbpath "C:\mongo-data\db"
+
+analyze properly the files, "tailwind.config.js", "postcss.config.js", "index.css" and "main.jsx" files properly and identify the issue and resolve the issue as the GIF that should appear onn the screen is still not visible yet, however the animationn is working. the screenshot of  current exact landing page is attached. Now  look for the error and resolve it to get thhe desired output. 
