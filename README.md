@@ -86,22 +86,6 @@ Install frontend dependencies
 cd client
 npm install
 ```
-
----
-
-## Environment Variables
-
-Create `.env` file inside the server folder.
-
-Example:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_atlas_connection_string
-JWT_SECRET=your_secret_key
-GROQ_API_KEY=your_groq_api_key
-```
-
 ---
 
 ## Running the Project
